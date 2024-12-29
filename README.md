@@ -1,4 +1,4 @@
-<h1>CONVERSOR DE MONEDAS</h1>
+<center><h1>CONVERSOR DE MONEDAS</h1></center>
 <p>Este proyecto se encarga de convertir una cantidad de acuerdo a la opción elegida</p>
 <p>Todo se maneja a través de la terminal</p>
 
