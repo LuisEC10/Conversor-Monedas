@@ -2,7 +2,8 @@
 <p>Este proyecto se encarga de convertir una cantidad de acuerdo a la opción elegida</p>
 <p>Todo se maneja a través de la terminal</p>
 
-![image](https://github.com/user-attachments/assets/1bd39de8-cf83-4d1d-83fe-498750fc9424)
+![image](https://github.com/user-attachments/assets/4aef560a-1c0c-4646-9b79-2a279550d620)
+
 
 
 
